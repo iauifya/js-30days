@@ -1,0 +1,15 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "url": "file:///D:/practice/JS-%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%E8%AA%B2%E7%A8%8B/basics-01-starting-project/index.html",
+            // "file": "d:\\practice\\JS-完整指南課程\\basics-01-starting-project\\index.html"
+        }
+    ]
+}
